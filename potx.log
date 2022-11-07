@@ -1,0 +1,6 @@
+2022-11-11/07/22 13:30:17 INFO     Honeypot initializing...
+2022-11-11/07/22 13:30:17 INFO     Ports: ['7774', '7775', '7776']
+2022-11-11/07/22 13:30:17 INFO     Log filepath: potx.log
+2022-11-11/07/22 13:35:31 INFO     Connection received: 7774: 127.0.0.1:27847
+2022-11-11/07/22 13:36:04 INFO     Connection received: 7775: 127.0.0.1:27880
+2022-11-11/07/22 13:36:10 INFO     Data received: 7775: 127.0.0.1:27880: b'timya hi\n'
